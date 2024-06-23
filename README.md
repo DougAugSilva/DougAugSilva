@@ -22,8 +22,6 @@ Apaixonado por exatas, tecnologia e música. Cientista e Analista de Dados, com 
 ![Douglas GitHub stats](https://github-readme-stats.vercel.app/api?username=DougAugSilva&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DougAugSilva&layout=compact&theme=tokyonight)
 
-Apaixonado por exatas, tecnologia e música. Cientista e Analista de Dados, com foco em desenvolvimento de projetos de automação e análise de banco de dados em MySQL. 
-
 ## 💡 Ultimos Projetos
 -
 -
