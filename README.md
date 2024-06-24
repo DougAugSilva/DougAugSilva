@@ -10,7 +10,7 @@ Apaixonado por exatas, tecnologia e música. Cientista e Analista de Dados, com 
 - 🎓 Cursando Bacharelado em Matemática na UEL <br>
 - 💻 Google Data Analytics Professional Certificate pela Coursera <br>
 - 🗽 Inglês pelo Laboratório de Línguas na UEL <br>
-- 📈 Aprendendo sobre Ciencia de Dados <br>
+- 📈 Aprendendo sobre Ciência de Dados <br>
 
 ## 🛠 Linguagens e Tecnologias
 ![SQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
