@@ -22,8 +22,8 @@ Apaixonado por exatas, tecnologia e música. Cientista e Analista de Dados, com 
 [![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683)](https://octave.org/)
 
 
-![Douglas GitHub stats](https://github-readme-stats.vercel.app/api?username=DougAugSilva&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DougAugSilva&layout=compact&theme=tokyonight)
+![Douglas GitHub stats](https://github-readme-stats.vercel.app/api?username=DougAugSilva&show_icons=true&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DougAugSilva&layout=compact&theme=merko)
 
 ## 💡 Ultimos Projetos
 - ### [Utilizando tidyverse para Analizar Dados com R](https://github.com/DougAugSilva/Analise_de_dados_R)
