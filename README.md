@@ -26,7 +26,7 @@ Apaixonado por exatas, tecnologia e música. Cientista e Analista de Dados, com 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DougAugSilva&layout=compact&theme=tokyonight)
 
 ## 💡 Ultimos Projetos
-- [Utilizando tidyverse para Analizar Dados com R](https://github.com/DougAugSilva/Analise_de_dados_R)
+- ### [Utilizando tidyverse para Analizar Dados com R](https://github.com/DougAugSilva/Analise_de_dados_R)
 -
 -
 -
