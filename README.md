@@ -5,7 +5,7 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5543991874654) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:douglasaugustosilva323@gmail.com)
 
-Apaixonado por exatas, tecnologia e música. Cientista e Analista de Dados, com foco em desenvolvimento de projetos de automação e análise de banco de dados em MySQL. 
+Apaixonado por exatas, tecnologia e música. Busco ser um Cientista e Analista de Dados, com foco em desenvolvimento de projetos de automação e análise de banco de dados em SQL com Python e R. 
 
 - 🎓 Cursando Bacharelado em Matemática na UEL <br>
 - 💻 Google Data Analytics Professional Certificate pela Coursera <br>
