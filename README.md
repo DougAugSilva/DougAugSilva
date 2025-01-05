@@ -23,12 +23,12 @@ Apaixonado por exatas, tecnologia e música. Busco ser um Cientista e Analista d
 [![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683)](https://octave.org/)
 
 
-![Douglas GitHub stats](https://github-readme-stats.vercel.app/api?username=DougAugSilva&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DougAugSilva&layout=compact&theme=github_dark)
+![Douglas GitHub stats](https://github-readme-stats.vercel.app/api?username=DougAugSilva&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DougAugSilva&layout=compact&theme=dark)
 
 ## 💡 Últimos Projetos
-- ### [Utilizando tidyverse para Analizar Dados com R](https://github.com/DougAugSilva/Analise_de_dados_R)
--
+- #### [Utilizando tidyverse para Analizar Dados com R](https://github.com/DougAugSilva/Analise_de_dados_R)
+- #### [Criando um RDB com PostgreSQL eAnalisando Vagas de Emprego](https://github.com/DougAugSilva/RDB_em_PostgreSQL)
 -
 -
 -
