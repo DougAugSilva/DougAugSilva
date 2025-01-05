@@ -27,8 +27,8 @@ Apaixonado por exatas, tecnologia e música. Busco ser um Cientista e Analista d
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DougAugSilva&layout=compact&theme=dark)
 
 ## 💡 Últimos Projetos
-- #### [Utilizando tidyverse para Analizar Dados com R](https://github.com/DougAugSilva/Analise_de_dados_R)
-- #### [Criando um RDB com PostgreSQL eAnalisando Vagas de Emprego](https://github.com/DougAugSilva/RDB_em_PostgreSQL)
+- ### [Utilizando tidyverse para Analizar Dados com R](https://github.com/DougAugSilva/Analise_de_dados_R)
+- ### [Criando um RDB com PostgreSQL eAnalisando Vagas de Emprego](https://github.com/DougAugSilva/RDB_em_PostgreSQL)
 -
 -
 -
