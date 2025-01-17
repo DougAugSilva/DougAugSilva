@@ -27,14 +27,14 @@ Apaixonado por exatas, tecnologia e música. Busco ser um Cientista e Analista d
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge)
 
-## 💡 Últimos Projetos
-- ### [Utilizando Tidyverse Para Analizar Dados com R](https://github.com/DougAugSilva/Analise_de_dados_R)
-- ### [Criando um RDB com PostgreSQL e Analisando Vagas de Emprego](https://github.com/DougAugSilva/RDB_em_PostgreSQL)
-- ### [Estruturas de Dados Baseadas em Vetores no Python](https://github.com/DougAugSilva/Vetores_Estrutura_de_Dados_Python)
-
 ## 📊 Status
 
 ![Douglas GitHub stats](https://github-readme-stats.vercel.app/api?username=DougAugSilva&show_icons=true&theme=blue-green)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DougAugSilva&layout=compact&theme=blue-green)
+
+## 💡 Últimos Projetos
+- ### [Utilizando Tidyverse Para Analizar Dados com R](https://github.com/DougAugSilva/Analise_de_dados_R)
+- ### [Criando um RDB com PostgreSQL e Analisando Vagas de Emprego](https://github.com/DougAugSilva/RDB_em_PostgreSQL)
+- ### [Estruturas de Dados Baseadas em Vetores no Python](https://github.com/DougAugSilva/Vetores_Estrutura_de_Dados_Python)
 
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FA9A&height=120&section=footer"/>
