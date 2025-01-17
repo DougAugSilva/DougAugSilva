@@ -14,11 +14,6 @@ Apaixonado por exatas, tecnologia e música. Busco ser um Cientista e Analista d
 - 🗽 Inglês pelo Laboratório de Línguas na UEL <br>
 - 📈 Aprendendo sobre Ciência de Dados <br>
 
-## 📊 Status
-
-![Douglas GitHub stats](https://github-readme-stats.vercel.app/api?username=DougAugSilva&show_icons=true&theme=blue-green)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DougAugSilva&layout=compact&theme=blue-green)
-
 ## 🛠 Linguagens e Tecnologias
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -28,6 +23,11 @@ Apaixonado por exatas, tecnologia e música. Busco ser um Cientista e Analista d
 [![Microsoft Exel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/pt-br/microsoft-365/excel)
 [![LaTex](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org/)
 [![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683)](https://octave.org/)
+
+## 📊 Status
+
+![Douglas GitHub stats](https://github-readme-stats.vercel.app/api?username=DougAugSilva&show_icons=true&theme=blue-green)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DougAugSilva&layout=compact&theme=blue-green)
 
 ## 💡 Últimos Projetos
 - ### [Utilizando Tidyverse Para Analizar Dados com R](https://github.com/DougAugSilva/Analise_de_dados_R)
