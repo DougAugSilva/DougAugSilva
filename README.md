@@ -1,9 +1,11 @@
-### Olá 👋, eu sou o Douglas e este é meu GitHub
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FA9A&height=120&section=header"/>
 
-## ✨ Sobre Mim:
+## Olá 👋, eu sou o Douglas e este é meu GitHub
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dougaugsilva/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5543991874654) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:douglasaugustosilva323@gmail.com)
+
+## ✨ Sobre Mim:
 
 Apaixonado por exatas, tecnologia e música. Busco ser um Cientista e Analista de Dados, com foco em desenvolvimento de projetos de automação e análise de banco de dados em SQL com Python e R. 
 
@@ -11,6 +13,11 @@ Apaixonado por exatas, tecnologia e música. Busco ser um Cientista e Analista d
 - 💻 Google Data Analytics Professional Certificate pela Coursera <br>
 - 🗽 Inglês pelo Laboratório de Línguas na UEL <br>
 - 📈 Aprendendo sobre Ciência de Dados <br>
+
+## 📊 Status
+
+![Douglas GitHub stats](https://github-readme-stats.vercel.app/api?username=DougAugSilva&show_icons=true&theme=blue-green)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DougAugSilva&layout=compact&theme=blue-green)
 
 ## 🛠 Linguagens e Tecnologias
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -22,12 +29,9 @@ Apaixonado por exatas, tecnologia e música. Busco ser um Cientista e Analista d
 [![LaTex](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org/)
 [![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683)](https://octave.org/)
 
-
-![Douglas GitHub stats](https://github-readme-stats.vercel.app/api?username=DougAugSilva&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DougAugSilva&layout=compact&theme=dark)
-
 ## 💡 Últimos Projetos
 - ### [Utilizando Tidyverse Para Analizar Dados com R](https://github.com/DougAugSilva/Analise_de_dados_R)
 - ### [Criando um RDB com PostgreSQL e Analisando Vagas de Emprego](https://github.com/DougAugSilva/RDB_em_PostgreSQL)
 - ### [Estruturas de Dados Baseadas em Vetores no Python](https://github.com/DougAugSilva/Vetores_Estrutura_de_Dados_Python)
- 
+
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FA9A&height=120&section=footer"/>
