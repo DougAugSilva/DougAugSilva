@@ -1,10 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FA9A&height=120&section=header"/>
 
-### Olá 👋, eu sou o Douglas e este é meu GitHub
+## Olá 👋, eu sou o Douglas e este é meu GitHub
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dougaugsilva/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:douglasaugustosilva323@gmail.com)
-
-## ✨ Sobre Mim:
 
 Apaixonado por exatas, tecnologia e música. Busco ser um Cientista e Analista de Dados, com foco em desenvolvimento de projetos de automação e análise de banco de dados em SQL com Python e R. 
 
