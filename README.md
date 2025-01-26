@@ -25,7 +25,7 @@ Apaixonado por exatas, tecnologia e música. Busco ser um Cientista e Analista d
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge)
 
- <img align="center" alt="Doug_Google" height="110" width="110" src="https://github.com/DougAugSilva/DougAugSilva/blob/main/google_data_analytics.png">
+<a href="https://www.coursera.org/account/accomplishments/specialization/Z5S9O76THHIN"> <img align="center" alt="Doug_Google" height="110" width="110" src="https://github.com/DougAugSilva/DougAugSilva/blob/main/google_data_analytics.png" >
 
 ## 📊 Status
 
