@@ -12,6 +12,11 @@ Apaixonado por exatas, tecnologia e música. Busco ser um Cientista e Analista d
 - 🗽 Inglês pelo Laboratório de Línguas na UEL <br>
 - 📈 Aprendendo sobre Ciência de Dados <br>
 
+### Certificados
+
+<a href="https://www.coursera.org/account/accomplishments/specialization/Z5S9O76THHIN"> <img align="center" alt="Doug_Google" height="115" width="115" src="https://github.com/DougAugSilva/DougAugSilva/blob/main/google_data_analytics.png" >
+
+
 ## 🛠 Linguagens e Tecnologias
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=for-the-badge)
@@ -24,8 +29,6 @@ Apaixonado por exatas, tecnologia e música. Busco ser um Cientista e Analista d
 [![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683)](https://octave.org/)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge)
-
-<a href="https://www.coursera.org/account/accomplishments/specialization/Z5S9O76THHIN"> <img align="center" alt="Doug_Google" height="115" width="115" src="https://github.com/DougAugSilva/DougAugSilva/blob/main/google_data_analytics.png" >
 
 ## 📊 Status
 
