@@ -12,7 +12,7 @@ Apaixonado por exatas, tecnologia e música. Busco ser um Cientista e Analista d
 - 🗽 Inglês pelo Laboratório de Línguas na UEL <br>
 - 📈 Aprendendo sobre Ciência de Dados <br>
 
-### Certificados
+### 🏆 Certificados
 
 <a href="https://www.coursera.org/account/accomplishments/specialization/Z5S9O76THHIN"> <img align="center" alt="Doug_Google" height="115" width="115" src="https://github.com/DougAugSilva/DougAugSilva/blob/main/google_data_analytics.png" >
 
