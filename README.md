@@ -14,7 +14,6 @@ Apaixonado por exatas, tecnologia e música. Busco ser um Cientista e Analista d
 
 ### 🏆 Certificados
 
-<a href="https://www.coursera.org/account/accomplishments/specialization/Z5S9O76THHIN"> <img align="center" alt="Doug_Google" height="90" width="90" src="https://github.com/DougAugSilva/DougAugSilva/blob/main/Ibm_data_science.png" >
 <a href="https://www.coursera.org/account/accomplishments/specialization/Z5S9O76THHIN"> <img align="center" alt="Doug_Google" height="115" width="115" src="https://github.com/DougAugSilva/DougAugSilva/blob/main/google_data_analytics.png" >
 
 ## 🛠 Linguagens e Tecnologias
