@@ -13,8 +13,9 @@ Apaixonado por exatas, tecnologia e música. Aqui publico meus projetos com foco
 Aqui está um pouco da minha trajetória:
 
 - 🎓 Cursando Bacharelado em Matemática na UEL <br>
-- 💻 Google Data Analytics Professional Certificate pela Coursera <br>
+- 🔬 Iniciação Científica em Machine Learning
 - 🗽 Inglês pelo Laboratório de Línguas na UEL <br>
+- 💻 Google Data Analytics Professional Certificate pela Coursera <br>
 - 📈 Aprendendo sobre Ciência de Dados <br>
 
 ### 🏆 Certificados
