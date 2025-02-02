@@ -9,16 +9,17 @@
 
 </h3>
 
-<div align="center">
-<img src="https://64.media.tumblr.com/0276fba5c53f87acc2d9b223637f6d0c/9150c45c5157137e-64/s1280x1920/2711840439ca6ab32c0489216cdae894333a2e77.gifv" width="30%" align="right" />
-</div>
-
 Apaixonado por exatas, tecnologia e música. Aqui publico meus projetos com foco em ciência e análise de dados, tendo como objetivo demonstrar domínio das principais ferramentas e tecnologias relacionada a área de dados, servindo assim como um portfólio de projetos passados e que ainda participo. <br>
+
+<div align="center">
+<img src="https://64.media.tumblr.com/0276fba5c53f87acc2d9b223637f6d0c/9150c45c5157137e-64/s1280x1920/2711840439ca6ab32c0489216cdae894333a2e77.gifv" width="20%" align="right" />
+</div>
 
 - 🎓 Cursando Bacharelado em Matemática na UEL <br>
 - 🔬 Iniciação Científica em Machine Learning
 - 🗽 Inglês pelo Laboratório de Línguas na UEL <br>
 - 💻 Google Data Analytics Professional Certificate pela Coursera <br>
+- 👨‍🏫 Professor no Programa de Iniciação Científica (PIC) da OBMEP
 - 📈 Aprendendo sobre Ciência de Dados <br>
 
 ## 💻 Linguagens e Tecnologias
