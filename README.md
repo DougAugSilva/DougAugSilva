@@ -18,10 +18,6 @@ Aqui está um pouco da minha trajetória:
 - 💻 Google Data Analytics Professional Certificate pela Coursera <br>
 - 📈 Aprendendo sobre Ciência de Dados <br>
 
-### 🏆 Certificados
-
-<a href="https://www.coursera.org/account/accomplishments/specialization/Z5S9O76THHIN"> <img align="center" alt="Doug_Google" height="110" width="110" src="https://github.com/DougAugSilva/DougAugSilva/blob/main/google_data_analytics.png" >
-
 ## 💻 Linguagens e Tecnologias
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=for-the-badge)
