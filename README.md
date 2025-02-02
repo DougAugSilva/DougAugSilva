@@ -9,18 +9,17 @@
 
 </h3>
 
-Apaixonado por exatas, tecnologia e música. Busco ser um Cientista e Analista de Dados, com foco em desenvolvimento de projetos de automação e análise de banco de dados em SQL com Python e R. 
+Apaixonado por exatas, tecnologia e música. Aqui publico meus projetos com foco em ciência e análise de dados, tendo como objetivo demonstrar domínio das principais ferramentas e tecnologias relacionada a área de dados, servindo assim como um portfólio de projetos passados e que ainda participo. <br>
+Aqui está um pouco da minha trajetória:
 
 - 🎓 Cursando Bacharelado em Matemática na UEL <br>
 - 💻 Google Data Analytics Professional Certificate pela Coursera <br>
 - 🗽 Inglês pelo Laboratório de Línguas na UEL <br>
 - 📈 Aprendendo sobre Ciência de Dados <br>
 
-
-
 ### 🏆 Certificados
 
-<a href="https://www.coursera.org/account/accomplishments/specialization/Z5S9O76THHIN"> <img align="center" alt="Doug_Google" height="115" width="115" src="https://github.com/DougAugSilva/DougAugSilva/blob/main/google_data_analytics.png" >
+<a href="https://www.coursera.org/account/accomplishments/specialization/Z5S9O76THHIN"> <img align="center" alt="Doug_Google" height="110" width="110" src="https://github.com/DougAugSilva/DougAugSilva/blob/main/google_data_analytics.png" >
 
 ## 💻 Linguagens e Tecnologias
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -37,8 +36,8 @@ Apaixonado por exatas, tecnologia e música. Busco ser um Cientista e Analista d
 
 
  <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DougAugSilva&theme=merko&hide_border=false">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DougAugSilva&layout=compact&theme=merko&hide_border=false">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DougAugSilva&theme=blue-green&hide_border=false">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DougAugSilva&layout=compact&theme=blue-green&hide_border=false">
 </p>
 
 ## 💡 Últimos Projetos
