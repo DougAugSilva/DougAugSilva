@@ -13,6 +13,7 @@ Apaixonado por exatas, tecnologia e música. Aqui publico meus projetos com foco
 
 <div align="center">
 <img src="https://github.com/DougAugSilva/DougAugSilva/blob/main/LPYH.gif" width="21%" align="right" />
+ <img src="https://github.com/DougAugSilva/DougAugSilva/blob/main/fullyconnected_525.gif" width="21%" align="right" />
 </div>
 
 - 🎓 Cursando Bacharelado em Matemática na UEL <br>
