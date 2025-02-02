@@ -14,7 +14,6 @@
 </div>
 
 Apaixonado por exatas, tecnologia e música. Aqui publico meus projetos com foco em ciência e análise de dados, tendo como objetivo demonstrar domínio das principais ferramentas e tecnologias relacionada a área de dados, servindo assim como um portfólio de projetos passados e que ainda participo. <br>
-Aqui está um pouco da minha trajetória:
 
 - 🎓 Cursando Bacharelado em Matemática na UEL <br>
 - 🔬 Iniciação Científica em Machine Learning
