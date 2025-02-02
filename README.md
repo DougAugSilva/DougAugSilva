@@ -12,7 +12,7 @@
 Apaixonado por exatas, tecnologia e música. Aqui publico meus projetos com foco em ciência e análise de dados, tendo como objetivo demonstrar domínio das principais ferramentas e tecnologias relacionada a área de dados, servindo assim como um portfólio de projetos passados e que ainda participo. <br>
 
 <div align="center">
-<img src="https://github.com/DougAugSilva/DougAugSilva/blob/main/LPYH.gif" width="21%" align="right" />
+<img src="https://github.com/DougAugSilva/DougAugSilva/blob/main/rede_neural.gif" width="21%" align="right" />
  <img src="https://github.com/DougAugSilva/DougAugSilva/blob/main/fullyconnected_525.gif" width="21%" align="right" />
 </div>
 
