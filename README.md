@@ -1,22 +1,28 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FA9A&height=120&section=header"/>
 
-## Olá 👋, eu sou o Douglas e este é meu GitHub
+<h1 align="center">Olá 👋, eu sou o Douglas e este é meu GitHub</h1>
+
+<h3 align="center"
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dougaugsilva/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:douglasaugustosilva323@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:douglasaugustosilva323@gmail.com) 
+
+</h3>
 
 Apaixonado por exatas, tecnologia e música. Busco ser um Cientista e Analista de Dados, com foco em desenvolvimento de projetos de automação e análise de banco de dados em SQL com Python e R. 
- 
+
 - 🎓 Cursando Bacharelado em Matemática na UEL <br>
 - 💻 Google Data Analytics Professional Certificate pela Coursera <br>
 - 🗽 Inglês pelo Laboratório de Línguas na UEL <br>
 - 📈 Aprendendo sobre Ciência de Dados <br>
 
+
+
 ### 🏆 Certificados
 
 <a href="https://www.coursera.org/account/accomplishments/specialization/Z5S9O76THHIN"> <img align="center" alt="Doug_Google" height="115" width="115" src="https://github.com/DougAugSilva/DougAugSilva/blob/main/google_data_analytics.png" >
 
-## 🛠 Linguagens e Tecnologias
+## 💻 Linguagens e Tecnologias
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=for-the-badge)
 [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
@@ -29,10 +35,11 @@ Apaixonado por exatas, tecnologia e música. Busco ser um Cientista e Analista d
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge)
 
-## 📊 Status
 
-![Douglas GitHub stats](https://github-readme-stats.vercel.app/api?username=DougAugSilva&show_icons=true&theme=blue-green)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DougAugSilva&layout=compact&theme=blue-green)
+ <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DougAugSilva&theme=merko&hide_border=false">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DougAugSilva&layout=compact&theme=merko&hide_border=false">
+</p>
 
 ## 💡 Últimos Projetos
 - ### [Utilizando Tidyverse Para Analizar Dados com R](https://github.com/DougAugSilva/Analise_de_dados_R)
