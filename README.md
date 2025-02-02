@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e2ff00&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ffa0&height=120&section=header"/>
 
 <h1 align="center">Olá 👋, eu sou o Douglas e este é meu GitHub</h1>
 
@@ -36,8 +36,8 @@ Apaixonado por exatas, tecnologia e música. Aqui publico meus projetos com foco
 
 
  <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DougAugSilva&theme=highcontrast&hide_border=false">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DougAugSilva&layout=compact&theme=highcontrast&hide_border=false">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DougAugSilva&theme=blue-green&hide_border=false">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DougAugSilva&layout=compact&theme=blue-green&hide_border=false">
 </p>
 
 ## 💡 Últimos Projetos
@@ -45,4 +45,4 @@ Apaixonado por exatas, tecnologia e música. Aqui publico meus projetos com foco
 - ### [Criando um RDB com PostgreSQL e Analisando Vagas de Emprego](https://github.com/DougAugSilva/RDB_em_PostgreSQL)
 - ### [Estruturas de Dados Baseadas em Vetores no Python](https://github.com/DougAugSilva/Vetores_Estrutura_de_Dados_Python)
 
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e2ff00&height=120&section=footer"/>
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ffa0&height=120&section=footer"/>
