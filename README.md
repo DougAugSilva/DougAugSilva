@@ -36,8 +36,8 @@ Apaixonado por exatas, tecnologia e música. Aqui publico meus projetos com foco
 
 
  <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DougAugSilva&theme=blue-green&hide_border=false">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DougAugSilva&layout=compact&theme=blue-green&hide_border=false">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DougAugSilva&theme=chartreuse-dark&hide_border=false">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DougAugSilva&layout=compact&theme=chartreuse-dark&hide_border=false">
 </p>
 
 ## 💡 Últimos Projetos
