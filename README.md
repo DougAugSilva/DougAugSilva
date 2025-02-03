@@ -36,9 +36,8 @@ Apaixonado por exatas, tecnologia e música. Aqui publico meus projetos com foco
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge)
 
-
  <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DougAugSilva&theme=blue-green&hide_border=false">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DougAugSilva&theme=blue-green&hide_border=false">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DougAugSilva&layout=compact&theme=blue-green&hide_border=false">
 </p>
 
