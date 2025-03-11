@@ -11,17 +11,18 @@
 
 Apaixonado por exatas, tecnologia e música. Aqui publico meus projetos com foco em ciência e análise de dados, tendo como objetivo demonstrar domínio das principais ferramentas e tecnologias relacionada a área de dados, servindo assim como um portfólio de projetos passados e que ainda participo. <br>
 
-[//]: <> (<div align="center">)
-[//]: <> (<img src="https://github.com/DougAugSilva/DougAugSilva/blob/main/rede_neural.gif" width="21%" align="right" />)
-[//]: <> (<img src="https://github.com/DougAugSilva/DougAugSilva/blob/main/fullyconnected_525.gif" width="21%" align="right" />)
-[//]: <> (</div>)
-
 - 🎓 Cursando Bacharelado em Matemática na UEL <br>
 - 🔬 Iniciação Científica em Machine Learning
 - 🗽 Inglês pelo Laboratório de Línguas na UEL <br>
 - 💻 Google Data Analytics Professional Certificate pela Coursera <br>
 - 👨‍🏫 Professor no Programa de Iniciação Científica (PIC) da OBMEP
 - 📈 Aprendendo sobre Ciência de Dados <br>
+
+
+## 💡 Últimos Projetos
+- ### [Utilizando Tidyverse Para Analizar Dados com R](https://github.com/DougAugSilva/Analise_de_dados_R)
+- ### [Criando um RDB com PostgreSQL e Analisando Vagas de Emprego](https://github.com/DougAugSilva/RDB_em_PostgreSQL)
+- ### [Estruturas de Dados Baseadas em Vetores no Python](https://github.com/DougAugSilva/Vetores_Estrutura_de_Dados_Python)
 
 ## 💻 Linguagens e Tecnologias
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -36,14 +37,12 @@ Apaixonado por exatas, tecnologia e música. Aqui publico meus projetos com foco
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge)
 
- <p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DougAugSilva&theme=blue-green&hide_border=false">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DougAugSilva&layout=compact&theme=blue-green&hide_border=false">
-</p>
 
-## 💡 Últimos Projetos
-- ### [Utilizando Tidyverse Para Analizar Dados com R](https://github.com/DougAugSilva/Analise_de_dados_R)
-- ### [Criando um RDB com PostgreSQL e Analisando Vagas de Emprego](https://github.com/DougAugSilva/RDB_em_PostgreSQL)
-- ### [Estruturas de Dados Baseadas em Vetores no Python](https://github.com/DougAugSilva/Vetores_Estrutura_de_Dados_Python)
+<div align="center">
+  <a href="https://github.com/DougAugSilva">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DougAugSilva&show_icons=true&theme=blue-green&nclude_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DougAugSilva&layout=compact&langs_count=7&theme=blue-green"/>
+</div>
+</br>
 
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ffa0&height=120&section=footer"/>
