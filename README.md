@@ -17,11 +17,6 @@ Apaixonado por exatas, tecnologia e música. Aqui publico meus projetos com foco
 - 💻 Google Data Analytics Professional Certificate pela Coursera <br>
 - 👨‍🏫 Professor no Programa de Iniciação Científica (PIC) da OBMEP
 
-## 💡 Últimos Projetos
-- ### [Utilizando Tidyverse Para Analizar Dados com R](https://github.com/DougAugSilva/Analise_de_dados_R)
-- ### [Criando um RDB com PostgreSQL e Analisando Vagas de Emprego](https://github.com/DougAugSilva/RDB_em_PostgreSQL)
-- ### [Estruturas de Dados Baseadas em Vetores no Python](https://github.com/DougAugSilva/Vetores_Estrutura_de_Dados_Python)
-
 ## 💻 Linguagens e Tecnologias
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=for-the-badge)
@@ -42,5 +37,10 @@ Apaixonado por exatas, tecnologia e música. Aqui publico meus projetos com foco
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DougAugSilva&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
 </br>
+
+## 💡 Últimos Projetos
+- ### [Utilizando Tidyverse Para Analizar Dados com R](https://github.com/DougAugSilva/Analise_de_dados_R)
+- ### [Criando um RDB com PostgreSQL e Analisando Vagas de Emprego](https://github.com/DougAugSilva/RDB_em_PostgreSQL)
+- ### [Estruturas de Dados Baseadas em Vetores no Python](https://github.com/DougAugSilva/Vetores_Estrutura_de_Dados_Python)
 
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ffa0&height=120&section=footer"/>
