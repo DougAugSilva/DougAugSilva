@@ -16,8 +16,6 @@ Apaixonado por exatas, tecnologia e música. Aqui publico meus projetos com foco
 - 🗽 Inglês pelo Laboratório de Línguas na UEL <br>
 - 💻 Google Data Analytics Professional Certificate pela Coursera <br>
 - 👨‍🏫 Professor no Programa de Iniciação Científica (PIC) da OBMEP
-- 📈 Aprendendo sobre Ciência de Dados <br>
-
 
 ## 💡 Últimos Projetos
 - ### [Utilizando Tidyverse Para Analizar Dados com R](https://github.com/DougAugSilva/Analise_de_dados_R)
