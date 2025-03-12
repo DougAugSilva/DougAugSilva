@@ -9,13 +9,7 @@
 
 </h3>
 
-Apaixonado por exatas, tecnologia e música. Aqui publico meus projetos com foco em ciência e análise de dados, tendo como objetivo demonstrar domínio das principais ferramentas e tecnologias relacionada a área de dados, servindo assim como um portfólio de projetos passados e que ainda participo. <br>
-
-- 🎓 Cursando Bacharelado em Matemática na UEL <br>
-- 🔬 Iniciação Científica em Machine Learning
-- 🗽 Inglês pelo Laboratório de Línguas na UEL <br>
-- 💻 Google Data Analytics Professional Certificate pela Coursera <br>
-- 👨‍🏫 Professor no Programa de Iniciação Científica (PIC) da OBMEP
+Apaixonado por exatas, tecnologia e música. Aqui publico meus projetos com foco em ciência e análise de dados, tendo como objetivo demonstrar domínio das principais ferramentas e tecnologias relacionada a área de dados, servindo assim como um portfólio de projetos passados e que ainda participo.
 
 ## 💻 Linguagens e Tecnologias
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
