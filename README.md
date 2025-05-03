@@ -44,12 +44,12 @@ Seguem meus projetos com foco em ciência e análise de dados, tendo como objeti
 
 ## 💡Projetos Finalizados
 - ### [Treinando uma Rede Neural GAN em Python](https://github.com/DougAugSilva/Treinando-uma-Rede-Neural-GAN-em-Python)
-- ### [Utilizando Tidyverse Para Analizar Dados com R](https://github.com/DougAugSilva/Analise_de_dados_R)
+- ### [Utilizando Tidyverse para Analizar Dados com R](https://github.com/DougAugSilva/Analise_de_dados_R)
 - ### [Criando um RDB com PostgreSQL e Analisando Vagas de Emprego](https://github.com/DougAugSilva/RDB_em_PostgreSQL)
 - ### [Estruturas de Dados Baseadas em Vetores no Python](https://github.com/DougAugSilva/Vetores_Estrutura_de_Dados_Python)
 
 ## ⚙️ Projetos em Andamento
-- ### [Construindo um RDB Para Uma Livraria com Microsoft SQL Server](https://github.com/DougAugSilva/RDB_BIBLIOTECA)
+- ### [Construindo um RDB Para uma Livraria com Microsoft SQL Server](https://github.com/DougAugSilva/RDB_BIBLIOTECA)
 - ### [IC Estatistica UEL : Aprendizado de Máquina Supervisionado no R](https://github.com/DougAugSilva/IC_estatistica_modelos_de_regressao)
 
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ffa0&height=120&section=footer"/>
