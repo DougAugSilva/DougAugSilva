@@ -44,6 +44,7 @@ Também estão disponiveis alguns trabalhos que realizei durante minha graduaç�
 </br>
 
 ## 💡Projetos Finalizados
+- ### [Modelo de Regressão Logística em Python](https://github.com/DougAugSilva/Regressao_Logistica_Python)
 - ### [Treinando uma Rede Neural GAN em Python](https://github.com/DougAugSilva/Treinando-uma-Rede-Neural-GAN-em-Python)
 - ### [Utilizando Tidyverse para Analizar Dados com R](https://github.com/DougAugSilva/Analise_de_dados_R)
 - ### [Criando um RDB com PostgreSQL e Analisando Vagas de Emprego](https://github.com/DougAugSilva/RDB_em_PostgreSQL)
