@@ -18,12 +18,12 @@ Também estão disponiveis alguns trabalhos que realizei durante minha graduaç�
 ---
 ## 🌐 **Portfólios**
 
-*  **Python:** [Meu portfólio de projetos em Python](-)
-*  **SQL:** [Meu portfólio de projetos em T-SQL](-)
-*  **Power BI:** [Meu portfólio de projetos no Power BI](-)
-*  **Excel:** [Meu portfólio de projetos no Excel](-)
-*  **R:** [Meu portfólio de projetos em R](-)
-*  **Cálculo Numérico:** [Meu portfólio com projetos em Matlab](-)
+*  **Python:** [________________ Meu portfólio de projetos em Python.](-)
+*  **SQL:** [____________________Meu portfólio de projetos em T-SQL.](-)
+*  **Power BI:** [_______________Meu portfólio de projetos no Power BI.](-)
+*  **Excel:** [___________________Meu portfólio de projetos no Excel.](-)
+*  **R:** [_______________________Meu portfólio de projetos em R.](-)
+*  **Cálculo Numérico:** [_____Meu portfólio com projetos em Matlab.](-)
 
 ---
 ## 💻 Tecnologias e Ferramentas
