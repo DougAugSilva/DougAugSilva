@@ -25,7 +25,7 @@ Também estão disponiveis alguns trabalhos que realizei durante minha graduaç�
 *  **Python:** [Repositório Python](-)
 
 ---
-## 💻 Linguagens e Tecnologias 
+## 💻 Tecnologias e Ferramentas
 </br>
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
