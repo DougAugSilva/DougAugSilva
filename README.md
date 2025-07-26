@@ -5,7 +5,7 @@
 
 <h4 align="center"
   
-**Cursando Bacharelado em Matemátic - UEL | Estudando Ciência de Dados**
+**Cursando Bacharelado em Matemática - UEL | Estudando Ciência de Dados**
   
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dougaugsilva/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:douglasaugustosilva323@gmail.com)
