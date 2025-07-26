@@ -23,6 +23,7 @@ Também estão disponiveis alguns trabalhos que realizei durante minha graduaç�
 *  **Power BI:** [Meu portfólio de projetos no Power BI](-)
 *  **Excel:** [Meu portfólio de projetos no Excel](-)
 *  **R:** [Meu portfólio de projetos em R](-)
+*  **Cálculo Numérico:** [Meu portfólio com projetos em Matlab](-)
 
 ---
 ## 💻 Tecnologias e Ferramentas
