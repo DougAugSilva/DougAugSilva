@@ -64,9 +64,8 @@ Também estão disponiveis alguns trabalhos que realizei durante minha graduaç�
 🔹 Manipulação de bancos de dados, consultas otimizadas, criação de funções e stores procedures. </br>
 
 ### 🔎 Análise de Dados
-🔹 Criação de dashboards no Power BI e fórmulas DAX. </br>
 🔹 Excel (avançado): Dashboards dinâmicos e análise de dados. </br>
-🔹 Power BI: Visualizações interativas e relatórios. </br>
+🔹 Power BI: Visualizações interativas, relatórios e fórmulas DAX.. </br>
 
 ##  📊 Estatísticas
 
