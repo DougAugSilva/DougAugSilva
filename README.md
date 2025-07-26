@@ -72,8 +72,9 @@ Também estão disponiveis alguns trabalhos que realizei durante minha graduaç�
 
 <div align="center">
   <a href="https://github.com/DougAugSilva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DougAugSilva&show_icons=true&theme=blue-green&nclude_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DougAugSilva&layout=compact&langs_count=7&theme=blue-green"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DougAugSilva&show_icons=true&theme=tokyonight&nclude_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DougAugSilva&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DougAugSilva&hide_langs=true&layout=pie&theme=tokyonight"/>
 </div>
 </br>
 
