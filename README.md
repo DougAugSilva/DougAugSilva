@@ -19,10 +19,10 @@ Também estão disponiveis alguns trabalhos que realizei durante minha graduaç�
 ---
 ## 🌐 **Portfólios**
 
-* **Excel:** [Meu portfólio de Excel](-)
-* **Power BI:** [Meu portfólio de Power BI](-)
-* **SQL:** [Repositório MySQL](-)
-* **Python:** [Repositório Python](-)
+* ### **Excel:** [Meu portfólio de Excel](-)
+* ### **Power BI:** [Meu portfólio de Power BI](-)
+* ### **SQL:** [Repositório MySQL](-)
+* ### **Python:** [Repositório Python](-)
 
 ---
 ## 💻 Linguagens e Tecnologias 
