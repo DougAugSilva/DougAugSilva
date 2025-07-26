@@ -1,18 +1,42 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ffa0&height=120&section=header"/>
 
+
 <h1 align="center">Olá 👋, eu sou o Douglas e este é meu GitHub</h1>
 
-<h3 align="center"
-
+<h4 align="center"
+  
+**Cursando Bacharelado em Matemátic - UEL | Estudando Ciência de Dados**
+  
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dougaugsilva/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:douglasaugustosilva323@gmail.com) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:douglasaugustosilva323@gmail.com)
 
-</h3>
+</h4>
 
 Uso aqui como um portfólio de projetos passados e que ainda participo.
 Também estão disponiveis alguns trabalhos que realizei durante minha graduação em matemática na Universidade Estadual de Londrina.
 
-## 💻 Linguagens e Tecnologias
+---
+## 💼 Minhas Competências
+
+### 🔭 Ciência de Dados
+🔹 Desenvolvimento e aplicação de modelos de machine learning para regressão, classificação e clustering (Scikit-learn). </br>
+🔹 Manipulação, modelagem e visualização de dados com Pandas, NumPy, Matplotlib, Seaborn e Plotly. </br>
+🔹 Web scraping e automação com Beautiful Soup e Selenium. </br>
+🔹 Versionamento de código com Git e GitHub. </br>
+
+### 📐Engenharia de Dados
+🔹 Criação de Bancos de dados em PostgreSQL e SQLServer, com relacionamento de tabelas e modelo conceitual. </br>
+🔹 Manipulação de bancos de dados, consultas otimizadas, criação de funções e stores procedures. </br>
+
+### 🔎 Análise de Dados
+🔹 Criação de dashboards no Power BI e fórmulas DAX. </br>
+🔹 Excel (avançado): Dashboards dinâmicos e análise de dados. </br>
+🔹 Power BI: Visualizações interativas e relatórios. </br>
+
+---
+## 💻 Linguagens e Tecnologias 
+</br>
+
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
 [![Microsoft Exel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/pt-br/microsoft-365/excel)
@@ -35,6 +59,15 @@ Também estão disponiveis alguns trabalhos que realizei durante minha graduaç�
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
+---
+## 🌐 **Portfólios**
+
+* **Excel:** [Meu portfólio de Excel](-)
+* **Power BI:** [Meu portfólio de Power BI](-)
+* **SQL:** [Repositório MySQL](-)
+* **Python:** [Repositório Python](-)
+
+##  📊 Estatísticas
 
 <div align="center">
   <a href="https://github.com/DougAugSilva">
