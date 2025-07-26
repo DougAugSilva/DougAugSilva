@@ -15,23 +15,14 @@
 Uso aqui como um portfólio de projetos passados e que ainda participo.
 Também estão disponiveis alguns trabalhos que realizei durante minha graduação em matemática na Universidade Estadual de Londrina.
 
+
 ---
-## 💼 Minhas Competências
+## 🌐 **Portfólios**
 
-### 🔭 Ciência de Dados
-🔹 Desenvolvimento e aplicação de modelos de machine learning para regressão, classificação e clustering (Scikit-learn). </br>
-🔹 Manipulação, modelagem e visualização de dados com Pandas, NumPy, Matplotlib, Seaborn e Plotly. </br>
-🔹 Web scraping e automação com Beautiful Soup e Selenium. </br>
-🔹 Versionamento de código com Git e GitHub. </br>
-
-### 📐Engenharia de Dados
-🔹 Criação de Bancos de dados em PostgreSQL e SQLServer, com relacionamento de tabelas e modelo conceitual. </br>
-🔹 Manipulação de bancos de dados, consultas otimizadas, criação de funções e stores procedures. </br>
-
-### 🔎 Análise de Dados
-🔹 Criação de dashboards no Power BI e fórmulas DAX. </br>
-🔹 Excel (avançado): Dashboards dinâmicos e análise de dados. </br>
-🔹 Power BI: Visualizações interativas e relatórios. </br>
+* **Excel:** [Meu portfólio de Excel](-)
+* **Power BI:** [Meu portfólio de Power BI](-)
+* **SQL:** [Repositório MySQL](-)
+* **Python:** [Repositório Python](-)
 
 ---
 ## 💻 Linguagens e Tecnologias 
@@ -60,12 +51,22 @@ Também estão disponiveis alguns trabalhos que realizei durante minha graduaç�
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 ---
-## 🌐 **Portfólios**
+## 💼 Minhas Competências
 
-* **Excel:** [Meu portfólio de Excel](-)
-* **Power BI:** [Meu portfólio de Power BI](-)
-* **SQL:** [Repositório MySQL](-)
-* **Python:** [Repositório Python](-)
+### 🔭 Ciência de Dados
+🔹 Desenvolvimento e aplicação de modelos de machine learning para regressão, classificação e clustering (Scikit-learn). </br>
+🔹 Manipulação, modelagem e visualização de dados com Pandas, NumPy, Matplotlib, Seaborn e Plotly. </br>
+🔹 Web scraping e automação com Beautiful Soup e Selenium. </br>
+🔹 Versionamento de código com Git e GitHub. </br>
+
+### 📐Engenharia de Dados
+🔹 Criação de Bancos de dados em PostgreSQL e SQLServer, com relacionamento de tabelas e modelo conceitual. </br>
+🔹 Manipulação de bancos de dados, consultas otimizadas, criação de funções e stores procedures. </br>
+
+### 🔎 Análise de Dados
+🔹 Criação de dashboards no Power BI e fórmulas DAX. </br>
+🔹 Excel (avançado): Dashboards dinâmicos e análise de dados. </br>
+🔹 Power BI: Visualizações interativas e relatórios. </br>
 
 ##  📊 Estatísticas
 
