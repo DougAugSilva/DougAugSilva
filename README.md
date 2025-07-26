@@ -15,14 +15,13 @@
 Uso aqui como um portfólio de projetos passados e que ainda participo.
 Também estão disponiveis alguns trabalhos que realizei durante minha graduação em matemática na Universidade Estadual de Londrina.
 
-
 ---
 ## 🌐 **Portfólios**
 
-*  **Excel:** [Meu portfólio de Excel](-)
-*  **Power BI:** [Meu portfólio de Power BI](-)
 *  **SQL:** [Repositório MySQL](-)
 *  **Python:** [Repositório Python](-)
+*  **Power BI:** [Meu portfólio de Power BI](-)
+*  **Excel:** [Meu portfólio de Excel](-)
 
 ---
 ## 💻 Tecnologias e Ferramentas
