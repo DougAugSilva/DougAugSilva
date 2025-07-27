@@ -68,6 +68,7 @@ Também estão disponiveis alguns trabalhos que realizei durante minha graduaç�
 🔹 Excel (avançado): Dashboards dinâmicos e análise de dados. </br>
 🔹 Power BI: Visualizações interativas, relatórios e fórmulas DAX.. </br>
 
+---
 ##  📊 Estatísticas
 
 <div align="center">
