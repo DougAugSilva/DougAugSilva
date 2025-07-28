@@ -18,12 +18,12 @@ Também estão disponiveis alguns trabalhos que realizei durante minha graduaç�
 ---
 ## 🌐 **Portfólios**
 
-*  **Python:** [________________ Meu portfólio de projetos em Python.](-)
-*  **SQL:** [____________________Meu portfólio de projetos em T-SQL.](-)
-*  **Power BI:** [_______________Meu portfólio de projetos no Power BI.](-)
-*  **Excel:** [___________________Meu portfólio de projetos no Excel.](-)
-*  **R:** [_______________________Meu portfólio de projetos em R.](-)
-*  **Cálculo Numérico:** [_____Meu portfólio com projetos em Matlab.](-)
+*  **Python:** [________________ Meu portfólio de projetos em Python.](https://sites.google.com/view/douglasportifolio/projetos-em-python?authuser=0)
+*  **SQL:** [____________________Meu portfólio de projetos em T-SQL.](https://sites.google.com/view/douglasportifolio/projetos-em-sql?authuser=0)
+*  **Power BI:** [_______________Meu portfólio de projetos no Power BI.](https://sites.google.com/view/douglasportifolio/projetos-em-power-bi?authuser=0)
+*  **Excel:** [___________________Meu portfólio de projetos no Excel.](https://sites.google.com/view/douglasportifolio/projetos-em-excel?authuser=0)
+*  **R:** [_______________________Meu portfólio de projetos em R.](https://sites.google.com/view/douglasportifolio/projetos-em-r?authuser=0)
+*  **Cálculo Numérico:** [_____Meu portfólio com projetos em Matlab](https://sites.google.com/view/douglasportifolio/extra-c%C3%A1lculo-num%C3%A9rico?authuser=0)
 
 ---
 ## 💻 Tecnologias e Ferramentas
