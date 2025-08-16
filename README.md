@@ -23,7 +23,7 @@ Também estão disponiveis alguns trabalhos que realizei durante minha graduaç�
 *  **Power BI:** [_______________Meu portfólio de projetos no Power BI.](https://sites.google.com/view/douglasportifolio/projetos-em-power-bi?authuser=0)
 *  **Excel:** [___________________Meu portfólio de projetos no Excel.](https://sites.google.com/view/douglasportifolio/projetos-em-excel?authuser=0)
 *  **R:** [_______________________Meu portfólio de projetos em R.](https://sites.google.com/view/douglasportifolio/projetos-em-r?authuser=0)
-*  **Cálculo Numérico:** [_____Meu portfólio com projetos em Matlab](https://sites.google.com/view/douglasportifolio/extra-c%C3%A1lculo-num%C3%A9rico?authuser=0)
+*  **Cálculo Numérico:** [_____Meu portfólio com projetos de Cálculo Numérico](https://sites.google.com/view/douglasportifolio/extra-c%C3%A1lculo-num%C3%A9rico?authuser=0)
 
 ---
 ## 💻 Tecnologias e Ferramentas
