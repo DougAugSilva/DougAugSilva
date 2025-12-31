@@ -68,19 +68,18 @@ Também estão disponiveis alguns trabalhos que realizei durante minha graduaç�
 🔹 Power BI: Visualizações interativas, relatórios e fórmulas DAX.. </br>
 
 ---
-##  📊 Estatísticas
+## 📊 Estatísticas
 
 <div align="center">
   <a href="https://github.com/DougAugSilva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DougAugSilva&show_icons=true&theme=tokyonight&nclude_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DougAugSilva&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DougAugSilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DougAugSilva&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
 </div>
-</br>
 
 ---
 ## ⚙️ Projetos em Andamento
 - ### [Construindo um RDB Para uma Livraria com Microsoft SQL Server](https://github.com/DougAugSilva/RDB_BIBLIOTECA)
-- ### [IC Estatistica UEL : Aprendizado de Máquina Supervisionado no R](https://github.com/DougAugSilva/IC_estatistica_modelos_de_regressao)
 
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ffa0&height=120&section=footer"/>
 
