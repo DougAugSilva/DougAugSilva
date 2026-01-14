@@ -69,7 +69,7 @@ Também estão disponiveis alguns trabalhos que realizei durante minha graduaç�
 
 ---
 ## ⚙️ Projetos em Andamento
-- ### [Construindo um RDB Para uma Livraria com Microsoft SQL Server](https://github.com/DougAugSilva/RDB_BIBLIOTECA)
+- ### [-](-)
 
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ffa0&height=120&section=footer"/>
 
