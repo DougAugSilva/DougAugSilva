@@ -14,7 +14,7 @@
 </h4>
 
 Uso aqui como um acervo de projetos passados e que ainda participo.
-Também estão disponiveis alguns trabalhos que realizei durante minha graduação em matemática na Universidade Estadual de Londrina.
+Também estão disponiveis alguns trabalhos que realizei durante minha graduação em matemática na UEL e em minha gradução em Engenharia de Softwere na Unifil.
 
 ---
 ## 🌐 **Portfólios**
