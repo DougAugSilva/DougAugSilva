@@ -5,7 +5,7 @@
 
 <h4 align="center"
   
-**Bacharel em Matemática - UEL | Estudando Ciência de Dados**
+**Bacharel em Matemática | UEL**
   
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dougaugsilva/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:douglasaugustosilva323@gmail.com)
@@ -66,16 +66,6 @@ Também estão disponiveis alguns trabalhos que realizei durante minha graduaç�
 ### 🔎 Análise de Dados
 🔹 Excel (avançado): Dashboards dinâmicos e análise de dados. </br>
 🔹 Power BI: Visualizações interativas, relatórios e fórmulas DAX.. </br>
-
----
-## 📊 Estatísticas
-
-<div align="center">
-  <a href="https://github.com/DougAugSilva">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DougAugSilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DougAugSilva&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
-</div>
 
 ---
 ## ⚙️ Projetos em Andamento
