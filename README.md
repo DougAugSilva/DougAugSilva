@@ -19,11 +19,10 @@ Também estão disponiveis alguns trabalhos que realizei durante minha graduaç�
 ---
 ## 🌐 **Portfólios**
 
-*  **Python:** [________________ Meu portfólio de projetos em Python.](https://sites.google.com/view/douglasportifolio/projetos-em-python?authuser=0)
-*  **SQL:** [____________________Meu portfólio de projetos em SQL.](https://sites.google.com/view/douglasportifolio/projetos-em-sql?authuser=0)
-*  **Power BI:** [_______________Meu portfólio de projetos no Power BI.](https://sites.google.com/view/douglasportifolio/projetos-em-power-bi?authuser=0)
-*  **Excel:** [___________________Meu portfólio de projetos no Excel.](https://sites.google.com/view/douglasportifolio/projetos-em-excel?authuser=0)
-*  **R:** [_______________________Meu portfólio de projetos em R.](https://sites.google.com/view/douglasportifolio/projetos-em-r?authuser=0)
+*  **Desenvolvimento Back-end:** [________________________Back-end.](https://sites.google.com/view/douglasportifolio/back-end?authuser=0)
+*  **Desenvolvimento Front-end:** [_______________________Front-end.](https://sites.google.com/view/douglasportifolio/front-end?authuser=0)
+*  **Data Science e Analytics:** [__________________________Data Science.](https://sites.google.com/view/douglasportifolio/data-science?authuser=0)
+*  **Matemática e Cie. da Computação:** [__________________Math e CS.](https://sites.google.com/view/douglasportifolio/math-cs?authuser=0)
 
 ---
 ## 💻 Tecnologias e Ferramentas
@@ -54,19 +53,27 @@ Também estão disponiveis alguns trabalhos que realizei durante minha graduaç�
 ---
 ## 💼 Minhas Competências
 
-### 🔭 Ciência de Dados
+### 💾 Desenvolvimento Back-end
+🔹 Criação de Bancos de dados em PostgreSQL e SQLServer, com relacionamento de tabelas e modelo conceitual. </br>
+🔹 Manipulação de bancos de dados, consultas otimizadas, criação de funções e stores procedures. </br>
+🔹 Versionamento de código com Git e GitHub. </br>
+
+### 🖌 Desenvolvimento Front-end
+🔹</br>
+🔹</br>
+🔹</br>
+
+### 🔎 Data Science e Analytics
 🔹 Desenvolvimento e aplicação de modelos de machine learning para regressão, classificação e clustering (Scikit-learn). </br>
 🔹 Manipulação, modelagem e visualização de dados com Pandas, NumPy, Matplotlib, Seaborn e Plotly. </br>
 🔹 Web scraping e automação com Beautiful Soup e Selenium. </br>
-🔹 Versionamento de código com Git e GitHub. </br>
-
-### 📐Engenharia de Dados
-🔹 Criação de Bancos de dados em PostgreSQL e SQLServer, com relacionamento de tabelas e modelo conceitual. </br>
-🔹 Manipulação de bancos de dados, consultas otimizadas, criação de funções e stores procedures. </br>
-
-### 🔎 Análise de Dados
 🔹 Excel (avançado): Dashboards dinâmicos e análise de dados. </br>
 🔹 Power BI: Visualizações interativas, relatórios e fórmulas DAX.. </br>
+
+### 📐 Matemática e Cie. da Computação
+🔹</br>
+🔹</br>
+🔹</br>
 
 ---
 ## ⚙️ Projetos em Andamento
