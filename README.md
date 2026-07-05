@@ -25,6 +25,9 @@ Também estão disponiveis alguns trabalhos que realizei durante minha graduaç�
 *  **Matemática e Cie. da Computação:** [__________________Math e CS.](https://sites.google.com/view/douglasportifolio/math-cs?authuser=0)
 
 ---
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=DougAugSilva&include_all_commits=true&theme=chartreuse-dark)](https://github-stats-extended.vercel.app/api?username=DougAugSilva&include_all_commits=true&theme=chartreuse-dark)
+
+---
 ## 💻 Tecnologias e Ferramentas
 </br>
 
