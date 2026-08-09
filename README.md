@@ -16,8 +16,10 @@
 I use this space as a repository for past projects and those I am currently involved in.
 Also available here are some projects I completed during my undergraduate studies in Mathematics at UEL and Software Engineering at Unifil.
 I currently work in help desk support at [@BrConsorcios](https://www.brconsorcios.com/).
-## 💻 Technical Skills and Frameworks
-### Programing Languages
+
+## 💻 Technical Skills
+
+### Programing Languages and Frameworks
 [![My Skills](https://skillicons.dev/icons?i=c,cs,js,ts,py,java,dotnet,react)](https://skillicons.dev)
 
 ### Tools and Infraestructure
