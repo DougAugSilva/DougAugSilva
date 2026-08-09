@@ -20,10 +20,10 @@ I currently work in help desk support at [@BrConsorcios](https://www.brconsorcio
 ## 💻 Technical Skills
 
 ### Programing Languages and Frameworks
-[![My Skills](https://skillicons.dev/icons?i=c,cs,js,ts,py,java,dotnet,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,cs,dotnet,js,ts,react,java,spring)](https://skillicons.dev)
 
 ### Tools and Infraestructure
-[![My Skills](https://skillicons.dev/icons?i=docker,git,linux,windows,powershell,bash,postman,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,git,postman,linux,windows,powershell,bash,postgres)](https://skillicons.dev)
 
  <img 
     src="https://raw.githubusercontent.com/rystei/rystei/output/snake.svg" 
