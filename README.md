@@ -16,7 +16,6 @@
 I use this space as a repository for past projects and those I am currently involved in.
 Also available here are some projects I completed during my undergraduate studies in Mathematics at UEL and Software Engineering at Unifil.
 
----
 ## 💻 Technical Skills and Frameworks
 ### Programing Languages
 [![My Skills](https://skillicons.dev/icons?i=c,cs,js,ts,py,java,dotnet,react)](https://skillicons.dev)
@@ -24,25 +23,31 @@ Also available here are some projects I completed during my undergraduate studie
 ### Tools and Infraestructure
 [![My Skills](https://skillicons.dev/icons?i=docker,git,linux,windows,powershell,bash,postman,postgres)](https://skillicons.dev)
 
----
-![snake animation](https://github.com/DougAugSilva/DougAugSilva/blob/output/github-contribution-grid-snake2.svg)
+ <img 
+    src="https://raw.githubusercontent.com/rystei/rystei/output/snake.svg" 
+    alt="Snake animation" 
+  />
 
----
 ## 💼 Some of my projects
 
 ### 🔸[IT Inventory Control System](https://github.com/DougAugSilva/ItInventoryControlSystem) *(.NET, C#, React, SQL Server, Docker)* </br>
   > Full-stack application for managing IT equipment inventory, with a .NET/C# backend, React frontend, SQL Server persistence, and
-a containerized environment using Docker </br>
+a containerized environment using Docker. </br>
 ---
 ### 🔸 [E-commerce (Back-end)](https://github.com/DougAugSilva/JavaSalesAPI) *(Java, Spring Boot, Spring Data, PostgreSQL)* </br>
-  > E-commerce API built with Spring Boot and Spring Data, with data modeling and persistence in PostgreSQL </br>
+  > E-commerce API built with Spring Boot and Spring Data, with data modeling and persistence in PostgreSQL. </br>
 ---
 ### 🔸 [Database Modeling for a Bookstore](https://github.com/DougAugSilva/RDB_Livraria) *(SQL Server)* </br>
   > Complete relational model (conceptual, logical and physical) of a database for administering a library's collection, loans, and
 users. </br>
-
-🔹[**Vector-Based Data Structures in Python**](https://github.com/DougAugSilva/Vetores_Estrutura_de_Dados_Python) *(Python)* </br>
-🔹[**C Library for Scientific Mathematics**](https://github.com/DougAugSilva/nuum_calculus) *(C)*
+---
+### 🔸[Vector-Based Data Structures in Python](https://github.com/DougAugSilva/Vetores_Estrutura_de_Dados_Python) *(Python)* </br>
+  > Created in Python with OOP and NumPy, this text explores vector-based data structures, their theory, applications in computer
+science, and a comparison of the efficiency of developed algorithms. </br>
+---
+### 🔸[**C Library for Scientific Mathematics**](https://github.com/DougAugSilva/nuum_calculus) *(C)*  </br>
+  > Numerical methods were created for solving systems of equations and approximating functions; for this purpose, matrix
+manipulation structures and function pointers were implemented in C.  </br>
 
 
 
