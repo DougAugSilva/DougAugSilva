@@ -20,7 +20,7 @@ I currently work in help desk support at [@BrConsorcios](https://www.brconsorcio
 ## 💻 Technical Skills
 
 ### Programing Languages and Frameworks
-[![My Skills](https://skillicons.dev/icons?i=py,c,cs,dotnet,js,ts,react,java,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,cs,dotnet,js,html,css,ts,react,java,spring)](https://skillicons.dev)
 
 ### Tools and Infraestructure
 [![My Skills](https://skillicons.dev/icons?i=docker,git,postman,linux,windows,powershell,bash,postgres)](https://skillicons.dev)
