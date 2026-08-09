@@ -25,7 +25,7 @@ Also available here are some projects I completed during my undergraduate studie
 [![My Skills](https://skillicons.dev/icons?i=docker,git,linux,windows,powershell,bash,postman,postgres)](https://skillicons.dev)
 
 ---
-![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/DougAugSilva/DougAugSilva/blob/output/github-contribution-grid-snake2.svg)
 
 ---
 ## 💼 Some of my projects
