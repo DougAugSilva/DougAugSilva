@@ -43,6 +43,9 @@ a containerized environment using Docker. </br>
   > Complete relational model (conceptual, logical and physical) of a database for administering a library's collection, loans, and
 users. </br>
 ---
+### 🔸 [Dashboard for Jiu-Jitsu Athlete Analysis](https://github.com/DougAugSilva/dashboard_analise_atletas_jiujitsu) *(Python, Power BI, BeautifulSoup)* </br>
+  > Performance analysis of Jiu-Jitsu athletes using Power BI, data collected via web scraping with the BeautifulSoup library in Python </br>
+---
 ### 🔸[Vector-Based Data Structures in Python](https://github.com/DougAugSilva/Vetores_Estrutura_de_Dados_Python) *(Python)* </br>
   > Created in Python with OOP and NumPy, this text explores vector-based data structures, their theory, applications in computer
 science, and a comparison of the efficiency of developed algorithms. </br>
