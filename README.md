@@ -1,61 +1,33 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ffa0&height=120&section=header"/>
+<p align="center">
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=dougaugsilva&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/hero?username=dougaugsilva&theme=github-dark" alt="Douglas Augusto da Silva profile hero" /></picture>
+</p>
 
+<p align="center">
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=dougaugsilva&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/about?username=dougaugsilva&theme=github-dark" alt="About Douglas Augusto da Silva" /></picture>
+</p>
 
-<h1 align="center">Hi 👋, my name is Douglas and this is my GitHub</h1>
+<p align="center">
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=dougaugsilva&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/stack?username=dougaugsilva&theme=github-dark" alt="Language stack" /></picture>
+</p>
 
-<h4 align="center"
-  
-🔸**Pursuing a Bachelor's degree in Software Engineering | Unifil** 🔸<br>
-🔸**Bachelor of Mathematics | UEL**🔸
-  
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dougaugsilva/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:douglasaugustosilva323@gmail.com)
+## 📊 GitHub Stats
 
-</h4>
+<p align="center">
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=dougaugsilva&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/stats?username=dougaugsilva&theme=github-dark" alt="GitHub Stats" /></picture>
+</p>
 
-I use this space as a repository for past projects and those I am currently involved in.
-Also available here are some projects I completed during my undergraduate studies in Mathematics at UEL and Software Engineering at Unifil.
-I currently work in help desk support at [@BrConsorcios](https://www.brconsorcios.com/).
+<p align="center">
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=dougaugsilva&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/projects?username=dougaugsilva&theme=github-dark" alt="dougaugsilva featured projects" /></picture>
+</p>
 
-## 💻 Technical Skills
+## 🤝 Connect With Me
 
-### Programing Languages and Frameworks
-[![My Skills](https://skillicons.dev/icons?i=py,c,cs,dotnet,js,html,css,ts,react,java,spring)](https://skillicons.dev)
+<p align="center">
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=dougaugsilva&theme=github-dark&website=https%3A%2F%2Fsites.google.com%2Fview%2Fdouglasportifolio&mode=light" /><img src="https://www.gitskins.com/api/section/social?username=dougaugsilva&theme=github-dark&website=https%3A%2F%2Fsites.google.com%2Fview%2Fdouglasportifolio" alt="dougaugsilva social links" /></picture>
+</p>
 
-### Tools and Infraestructure
-[![My Skills](https://skillicons.dev/icons?i=docker,git,postman,linux,windows,powershell,bash,postgres)](https://skillicons.dev)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dougaugsilva) [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sites.google.com/view/douglasportifolio)
 
- <img 
-    src="https://raw.githubusercontent.com/rystei/rystei/output/snake.svg" 
-    alt="Snake animation" 
-  />
-
-## 💼 Some of my projects
-
-### 🔸[IT Inventory Control System](https://github.com/DougAugSilva/ItInventoryControlSystem) *(.NET, C#, React, SQL Server, Docker)* </br>
-  > Full-stack application for managing IT equipment inventory, with a .NET/C# backend, React frontend, SQL Server persistence, and
-a containerized environment using Docker. </br>
 ---
-### 🔸 [E-commerce (Back-end)](https://github.com/DougAugSilva/JavaSalesAPI) *(Java, Spring Boot, Spring Data, PostgreSQL)* </br>
-  > E-commerce API built with Spring Boot and Spring Data, with data modeling and persistence in PostgreSQL. </br>
----
-### 🔸 [Database Modeling for a Bookstore](https://github.com/DougAugSilva/RDB_Livraria) *(SQL Server)* </br>
-  > Complete relational model (conceptual, logical and physical) of a database for administering a library's collection, loans, and
-users. </br>
----
-### 🔸 [Dashboard for Jiu-Jitsu Athlete Analysis](https://github.com/DougAugSilva/dashboard_analise_atletas_jiujitsu) *(Python, Power BI, BeautifulSoup)* </br>
-  > Performance analysis of Jiu-Jitsu athletes using Power BI, data collected via web scraping with the BeautifulSoup library in Python </br>
----
-### 🔸[Vector-Based Data Structures in Python](https://github.com/DougAugSilva/Vetores_Estrutura_de_Dados_Python) *(Python)* </br>
-  > Created in Python with OOP and NumPy, this text explores vector-based data structures, their theory, applications in computer
-science, and a comparison of the efficiency of developed algorithms. </br>
----
-### 🔸[**C Library for Scientific Mathematics**](https://github.com/DougAugSilva/nuum_calculus) *(C)*  </br>
-  > Numerical methods were created for solving systems of equations and approximating functions; for this purpose, matrix
-manipulation structures and function pointers were implemented in C.  </br>
 
-
-
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ffa0&height=120&section=footer"/>
-
-
+<p align="center">Profile README generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></p>
