@@ -28,8 +28,12 @@ I currently work in help desk support at [@BrConsorcios](https://www.brconsorcio
   # 💻 Technical Skills
 
   ### Programming Languages and Frameworks
-  [![My Skills](https://skillicons.dev/icons?i=py,c,cs,dotnet,js,html,css,ts,react,java,spring)](https://skillicons.dev)
-  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,c,cs,dotnet,js,html,css,ts,react" alt="My Skills" align="middle">
+  <img src="https://github.com/DougAugSilva/DougAugSilva/blob/main/Sap_Abap_logo.png" alt="SAP ABAP Logo" width="60" align="middle">
+</p>
+
   ### Tools and Infrastructure
   [![My Skills](https://skillicons.dev/icons?i=docker,git,postman,linux,windows,powershell,bash,postgres)](https://skillicons.dev)
   
@@ -69,9 +73,6 @@ I currently work in help desk support at [@BrConsorcios](https://www.brconsorcio
 
 ### 🔸 [IT Inventory Control System](https://github.com/DougAugSilva/ItInventoryControlSystem) *(.NET, C#, React, SQL Server, Docker)*
 > Full-stack application for managing IT equipment inventory, with a .NET/C# backend, React frontend, SQL Server persistence, and a containerized environment using Docker.
----
-### 🔸 [E-commerce (Back-end)](https://github.com/DougAugSilva/JavaSalesAPI) *(Java, Spring Boot, Spring Data, PostgreSQL)*
-> E-commerce API built with Spring Boot and Spring Data, with data modeling and persistence in PostgreSQL.
 ---
 ### 🔸 [Database Modeling for a Bookstore](https://github.com/DougAugSilva/RDB_Livraria) *(SQL Server)*
 > Complete relational model (conceptual, logical and physical) of a database for administering a library's collection, loans, and users.
