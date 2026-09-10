@@ -31,7 +31,7 @@ I currently work in help desk support at [@BrConsorcios](https://www.brconsorcio
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,c,cs,dotnet,js,html,css,ts,react" alt="My Skills" align="middle">
-  <img src="https://github.com/DougAugSilva/DougAugSilva/blob/main/Sap_Abap_logq_quad.png" alt="SAP ABAP Logo" width="60" align="middle">
+  <img src="https://github.com/DougAugSilva/DougAugSilva/blob/main/Sap_Abap_logq_quad.png" alt="SAP ABAP Logo" width="55" align="middle">
 </p>
 
   ### Tools and Infrastructure
