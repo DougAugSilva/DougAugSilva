@@ -7,7 +7,7 @@
   
 I use this space as a repository for past projects and those I am currently involved in.
 Also available here are some projects I completed during my undergraduate studies in Mathematics at UEL and Software Engineering at Unifil.
-I currently work in help desk support at [@BrConsorcios](https://www.brconsorcios.com/).
+<br> I currently work as an SAP Intern at [Tata Consultancy Services - TCS](https://www.tcs.com/).
 
 <!-- ===== SOCIAL BADGES ===== -->
 <br/>
